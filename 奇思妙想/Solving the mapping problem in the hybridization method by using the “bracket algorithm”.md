@@ -92,9 +92,19 @@ The core idea of the bracketed algorithm is to locate, segment, group, and backw
 
 本算法引用格式：
 
+Wang, Y. (2025). Solving the mapping problem in the hybridization method by using the “bracket algorithm” [Source code]. GitHub. https://github.com/yuhong2024/Learn_AI/tree/main/idea
+
+并联系作者 
+
+(wyhstar@email.swu.edu.cn)
+
 
 
 # 参考
 
-部分课件引用：西南大学超星课程，张建奎，《作物育种学》https://www.xueyinonline.com/detail/200426399
+部分课件引用
+
+张建奎. (2025). 作物育种学 [课件]. 西南大学超星课程. https://www.xueyinonline.com/detail/200426399
+
+
 
